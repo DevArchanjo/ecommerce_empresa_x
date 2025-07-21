@@ -45,3 +45,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal: https://www.github.com/DevArchanjo
 
 [![Logo do PHP](https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png)](https://www.github.com/DevArchanjo)
+
+## Código da função soma
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```
